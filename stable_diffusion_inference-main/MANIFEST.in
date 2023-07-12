@@ -1,0 +1,1 @@
+include src/stable_diffusion_inference/configs/stable-diffusion/*.yaml
