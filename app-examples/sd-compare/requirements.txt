@@ -1,0 +1,4 @@
+gradio==3.12.0
+taming-transformers-rom1504
+sd_inference@git+https://github.com/aniketmaurya/stable_diffusion_inference@main
+clip@ git+https://github.com/openai/CLIP.git@main
